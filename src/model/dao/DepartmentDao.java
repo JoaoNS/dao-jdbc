@@ -1,8 +1,8 @@
 package model.dao;
 
-import model.entities.Department;
-
 import java.util.List;
+
+import model.entities.Department;
 
 public interface DepartmentDao {
 
